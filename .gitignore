@@ -1,0 +1,9 @@
+# Ignorar credenciais e dados sensíveis
+credentials.json
+.env
+*.csv
+*.sqlite
+
+# Bytecode do Python
+__pycache__/
+*.pyc
